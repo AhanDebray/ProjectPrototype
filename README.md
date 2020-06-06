@@ -1,10 +1,10 @@
-#READ ME
+# READ ME
 
 
-##This is a list of instruction on how to run the code. 
+## This is a list of instruction on how to run the code. 
 
 
-###STEPS:
+### STEPS:
 
 1) There are 3 main code files here for the 3 different micro controlers. "projectargon.ino" is meant to be used on the particle argon, "projectpi.ino" is meant to be used on the first Raspberry Pi or the indoors raspberry pi and "projectpi2.ino" is meant to be used on the second outdoors raspberry pi. 
 
@@ -14,4 +14,4 @@
 
 4) List of triggers used in IFTTT for communication will also be included in the Artefact file. 
 
-####END
+#### END
