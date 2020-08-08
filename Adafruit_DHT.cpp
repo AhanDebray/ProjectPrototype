@@ -6,7 +6,6 @@ DHT::DHT(uint8_t pin, uint8_t type, uint8_t count) {
 	_count = count;
 	firstreading = true;
 }
-
 void DHT::begin(void) {
 
 	pinMode(_pin, INPUT);
